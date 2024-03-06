@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "groq-sdk": "^0.3.1",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
